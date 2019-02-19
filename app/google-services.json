@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1025611737621",
+    "firebase_url": "https://shift-android-1532597882210.firebaseio.com",
+    "project_id": "shift-android-1532597882210",
+    "storage_bucket": "shift-android-1532597882210.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025611737621:android:e330b9615e26314d",
+        "android_client_info": {
+          "package_name": "com.innovitics.app.instabugproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025611737621-osgoa0fnuvoripj61cptfsnq6abjl5t7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.innovitics.app.instabugproject",
+            "certificate_hash": "2c9ae6b3ed99fe35cf9fed964a0e033f4f34e5ed"
+          }
+        },
+        {
+          "client_id": "1025611737621-bb7snba5imklfpjfuqvl7q4kubuvajud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYCzC4GcSyPEKNZ6zH1-y8ssHaWv_1mNA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025611737621-bb7snba5imklfpjfuqvl7q4kubuvajud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
